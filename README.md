@@ -1,5 +1,5 @@
-# 💫 Hi! I'm Gareth,
-🔭 I’m currently working on completing my MSc in Computer Science.<br>👯 I’m looking to switch careers from sport science and teaching to software development and data science.<br>🤝 I’m looking for help with launching my career and gaining experience.<br> 💬 Ask me about my projects.<br>⚡ Fun fact I am a South African, with British heritage who has been living in South East Asia for 5 years!
+# Hi! I'm Gareth,
+🔭 I have recently completed my MSc in Computer Science.<br>🚴 I’m busy switching careers from sport science to software development and data science with a particular interest in Machine Learning and its implementation in physical systems.<br>🤝 I’m looking to launching my career in tech by gaining experience with like-minded people and companies.<br> 💬 Ask me about my projects.<br>⚡ I'm a South African, with British heritage who has been living in South East Asia for 6 years!
 
 
 ## 🌐 Socials
